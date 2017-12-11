@@ -1,0 +1,7 @@
+C:\Users\bartkowiakd\source\repos\ProjektWSB\RCP_Server\RCP_Server\bin\Debug\RCP_Server.exe.config
+C:\Users\bartkowiakd\source\repos\ProjektWSB\RCP_Server\RCP_Server\bin\Debug\RCP_Server.exe
+C:\Users\bartkowiakd\source\repos\ProjektWSB\RCP_Server\RCP_Server\bin\Debug\RCP_Server.pdb
+C:\Users\bartkowiakd\source\repos\ProjektWSB\RCP_Server\RCP_Server\obj\Debug\RCP_Server.csprojResolveAssemblyReference.cache
+C:\Users\bartkowiakd\source\repos\ProjektWSB\RCP_Server\RCP_Server\obj\Debug\RCP_Server.csproj.CoreCompileInputs.cache
+C:\Users\bartkowiakd\source\repos\ProjektWSB\RCP_Server\RCP_Server\obj\Debug\RCP_Server.exe
+C:\Users\bartkowiakd\source\repos\ProjektWSB\RCP_Server\RCP_Server\obj\Debug\RCP_Server.pdb

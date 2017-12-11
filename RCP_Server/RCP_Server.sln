@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RCP_Server", "RCP_Server\RCP_Server.csproj", "{CF47B33D-F75F-4FC2-8D75-8E964A10D3A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF47B33D-F75F-4FC2-8D75-8E964A10D3A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF47B33D-F75F-4FC2-8D75-8E964A10D3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF47B33D-F75F-4FC2-8D75-8E964A10D3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF47B33D-F75F-4FC2-8D75-8E964A10D3A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B91CFC8-C098-4D54-9D42-F5FF2D8CC7E9}
+	EndGlobalSection
+EndGlobal
