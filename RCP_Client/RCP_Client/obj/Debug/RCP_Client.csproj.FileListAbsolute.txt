@@ -1,0 +1,15 @@
+C:\Users\bartkowiakd\source\repos\RCP_Client\RCP_Client\bin\Debug\RCP_Client.exe.config
+C:\Users\bartkowiakd\source\repos\RCP_Client\RCP_Client\bin\Debug\RCP_Client.exe
+C:\Users\bartkowiakd\source\repos\RCP_Client\RCP_Client\bin\Debug\RCP_Client.pdb
+C:\Users\bartkowiakd\source\repos\RCP_Client\RCP_Client\obj\Debug\RCP_Client.csprojResolveAssemblyReference.cache
+C:\Users\bartkowiakd\source\repos\RCP_Client\RCP_Client\obj\Debug\MainWindow.g.cs
+C:\Users\bartkowiakd\source\repos\RCP_Client\RCP_Client\obj\Debug\App.g.cs
+C:\Users\bartkowiakd\source\repos\RCP_Client\RCP_Client\obj\Debug\RCP_Client_MarkupCompile.cache
+C:\Users\bartkowiakd\source\repos\RCP_Client\RCP_Client\obj\Debug\RCP_Client_MarkupCompile.lref
+C:\Users\bartkowiakd\source\repos\RCP_Client\RCP_Client\obj\Debug\MainWindow.baml
+C:\Users\bartkowiakd\source\repos\RCP_Client\RCP_Client\obj\Debug\RCP_Client.g.resources
+C:\Users\bartkowiakd\source\repos\RCP_Client\RCP_Client\obj\Debug\RCP_Client.Properties.Resources.resources
+C:\Users\bartkowiakd\source\repos\RCP_Client\RCP_Client\obj\Debug\RCP_Client.csproj.GenerateResource.Cache
+C:\Users\bartkowiakd\source\repos\RCP_Client\RCP_Client\obj\Debug\RCP_Client.csproj.CoreCompileInputs.cache
+C:\Users\bartkowiakd\source\repos\RCP_Client\RCP_Client\obj\Debug\RCP_Client.exe
+C:\Users\bartkowiakd\source\repos\RCP_Client\RCP_Client\obj\Debug\RCP_Client.pdb
