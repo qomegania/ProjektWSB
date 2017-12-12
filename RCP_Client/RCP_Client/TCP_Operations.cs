@@ -20,6 +20,7 @@ namespace RCP_Client
             SendMessage = 0111,
             GetUserList = 1000,
             SendMyUserName = 1001,
+            ChangePasswd = 1010,
 
 
 
