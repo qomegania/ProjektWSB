@@ -28,9 +28,12 @@ namespace RCP_Client
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
-            string temp = textBox_login.Text + ";" + textBox_passwd;
+            string temp = textBox_login.Text + ";" + textBox_passwd.Text;
             string crypto_temp = temp;
             auth_string = temp;
+
+            LogIn client = new LogIn(textBox_login.Text, textBox_passwd.Text);
+
         }
 
         public MainWindow()
