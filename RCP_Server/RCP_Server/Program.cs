@@ -10,9 +10,19 @@ namespace RCP_Server
     {
         static void Main(string[] args)
         {
-            LogIn server = new LogIn();
+            string exitString;
 
-            Console.WriteLine(server.isConnected);
+            do
+            {
+                exitString = "";
+                LogIn server = new LogIn();
+
+                Console.WriteLine(server.isConnected);
+
+                //Console.Write("Press any key to continue, else type STOP or EXIT");
+                //exitString = Console.ReadLine();
+            } while (exitString.ToUpper() != "STOP" || exitString.ToUpper() != "EXIT");
+
         }
     }
 }

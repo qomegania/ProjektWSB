@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Net.Sockets;
 using System.Net;
+using System.Windows.Forms;
 
 namespace RCP_Server
 {
@@ -33,11 +34,15 @@ namespace RCP_Server
                 listener = new TcpListener(addressIP, port);
                 listener.Start();
                 client = listener.AcceptTcpClient();
-
+                isConnected = true;
+                listener.Stop();
                 return true;
             }
             catch (Exception ex)
             {
+                isConnected = false;
+                MessageBox.Show(ex.ToString());
+                Console.WriteLine(ex.ToString());
                 return false;
             }
         }
