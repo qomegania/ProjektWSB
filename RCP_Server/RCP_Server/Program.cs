@@ -10,7 +10,9 @@ namespace RCP_Server
     {
         static void Main(string[] args)
         {
+            LogIn server = new LogIn();
 
+            Console.WriteLine(server.isConnected);
         }
     }
 }

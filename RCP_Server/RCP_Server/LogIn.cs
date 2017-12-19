@@ -17,7 +17,13 @@ namespace RCP_Server
 
         public LogIn()
         {
-            
+            Connect();
+        }
+
+        public bool isConnected
+        {
+            get;
+            set;
         }
 
         private bool Connect()
