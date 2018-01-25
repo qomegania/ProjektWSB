@@ -1,0 +1,10 @@
+C:\Users\bartkowiakd\source\repos\ServerProject\ClientProject\bin\Debug\ClientProject.exe.config
+C:\Users\bartkowiakd\source\repos\ServerProject\ClientProject\bin\Debug\ClientProject.exe
+C:\Users\bartkowiakd\source\repos\ServerProject\ClientProject\bin\Debug\ClientProject.pdb
+C:\Users\bartkowiakd\source\repos\ServerProject\ClientProject\obj\Debug\ClientProject.ClientForm.resources
+C:\Users\bartkowiakd\source\repos\ServerProject\ClientProject\obj\Debug\ClientProject.Properties.Resources.resources
+C:\Users\bartkowiakd\source\repos\ServerProject\ClientProject\obj\Debug\ClientProject.csproj.GenerateResource.Cache
+C:\Users\bartkowiakd\source\repos\ServerProject\ClientProject\obj\Debug\ClientProject.csproj.CoreCompileInputs.cache
+C:\Users\bartkowiakd\source\repos\ServerProject\ClientProject\obj\Debug\ClientProject.exe
+C:\Users\bartkowiakd\source\repos\ServerProject\ClientProject\obj\Debug\ClientProject.pdb
+C:\Users\bartkowiakd\source\repos\ServerProject\ClientProject\obj\Debug\ClientProject.csprojResolveAssemblyReference.cache

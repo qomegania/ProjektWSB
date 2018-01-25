@@ -1,0 +1,10 @@
+C:\Users\bartkowiakd\source\repos\ServerProject\ServerProject\bin\Debug\ServerProject.exe.config
+C:\Users\bartkowiakd\source\repos\ServerProject\ServerProject\bin\Debug\ServerProject.exe
+C:\Users\bartkowiakd\source\repos\ServerProject\ServerProject\bin\Debug\ServerProject.pdb
+C:\Users\bartkowiakd\source\repos\ServerProject\ServerProject\obj\Debug\ServerProject.csprojResolveAssemblyReference.cache
+C:\Users\bartkowiakd\source\repos\ServerProject\ServerProject\obj\Debug\ServerProject.Properties.Resources.resources
+C:\Users\bartkowiakd\source\repos\ServerProject\ServerProject\obj\Debug\ServerProject.csproj.GenerateResource.Cache
+C:\Users\bartkowiakd\source\repos\ServerProject\ServerProject\obj\Debug\ServerProject.csproj.CoreCompileInputs.cache
+C:\Users\bartkowiakd\source\repos\ServerProject\ServerProject\obj\Debug\ServerProject.exe
+C:\Users\bartkowiakd\source\repos\ServerProject\ServerProject\obj\Debug\ServerProject.pdb
+C:\Users\bartkowiakd\source\repos\ServerProject\ServerProject\obj\Debug\ServerProject.ServerForm.resources
